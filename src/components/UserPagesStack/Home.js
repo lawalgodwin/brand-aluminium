@@ -21,16 +21,16 @@ export default class HOME extends Component<Props> {
     constructor (props) {
         super(props)
         this.state = {
-           modalVisible: false,
-        modalImage: require('../../ImageAsset/fruit-fast-action-studio-73000.jpeg'),
-        images: [
-            {uri: 'https://facebook.github.io/react/logo-og.png'},
-            {uri: 'https://facebook.github.io/react/logo-og.png'},
-            {uri: 'https://facebook.github.io/react/logo-og.png'},
-            {uri: 'https://facebook.github.io/react/logo-og.png'},
-            {uri: 'https://facebook.github.io/react/logo-og.png'},
-            ],
-        unique_id : ""
+            modalVisible: false,
+            modalImage: require('../../ImageAsset/fruit-fast-action-studio-73000.jpeg'),
+            images: [
+                {uri: 'https://facebook.github.io/react/logo-og.png'},
+                {uri: 'https://facebook.github.io/react/logo-og.png'},
+                {uri: 'https://facebook.github.io/react/logo-og.png'},
+                {uri: 'https://facebook.github.io/react/logo-og.png'},
+                {uri: 'https://facebook.github.io/react/logo-og.png'},
+                ],
+            unique_id : ""
         }
       }
             
@@ -43,7 +43,7 @@ export default class HOME extends Component<Props> {
        return this.state.modalIamge;
     }
     static navigationOptions = {
-     drawerIcon: ( 
+     drawerIcon: (
       <Image source={require('../../ImageAsset/home.png')} style={{height:32, width:32}}/>
      )
     }
