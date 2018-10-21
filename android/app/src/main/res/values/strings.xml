@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BAL APP</string>
+    <string name="back4app_server_url">https://parseapi.back4app.com/</string>
+
+    <!-- Change the following strings as required -->
+    <string name="back4app_app_id">jPqv9t6IFtko5O8YXnOImtwOxvfu4VRcY2GLjoZx</string>
+    <string name="back4app_client_key">JO010yETKGLSi9Q0DJvEZfQN08BxKUc637CTexz9</string>
+    <string name="default_notification_channel_id">cid</string>
+</resources>

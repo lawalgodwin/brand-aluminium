@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "487448166319",
+    "firebase_url": "https://brandalu-c5d0e.firebaseio.com",
+    "project_id": "brandalu-c5d0e",
+    "storage_bucket": "brandalu-c5d0e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:487448166319:android:ddcfc360ad758cd4",
+        "android_client_info": {
+          "package_name": "com.bal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "487448166319-qeut044uj824mccrtjppe349otf2q586.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bal",
+            "certificate_hash": "8e2d7ff1f1f0e6c27ef52995caaa8dac6685a40b"
+          }
+        },
+        {
+          "client_id": "487448166319-3htsg6pj89fcmj2s3ch81b0si8eb3afo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_o5RbSw2Ci3OWiI0zkw6jos206OMGi1E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "487448166319-3htsg6pj89fcmj2s3ch81b0si8eb3afo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
