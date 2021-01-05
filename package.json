@@ -9,7 +9,7 @@
     },
     "dependencies": {
         "@shoutem/ui": "^0.23.4",
-        "axios": "^0.18.0",
+        "axios": "^0.21.1",
         "babel-preset-flow": "^6.23.0",
         "native-base": "^2.4.5",
         "nodemailer": "^4.6.6",
